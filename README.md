@@ -15,3 +15,11 @@
    • TypeScript & Tailwind CSS
 🎯 Goal: Build real projects, master system design & get into an Ivy 🌱
 ```
+
+---
+
+---
+
+### 🐍 My Contributions Snake
+
+![snake gif](https://github.com/abdurahmonSt/abdurahmonST/blob/output/github-contribution-grid-snake.svg)
