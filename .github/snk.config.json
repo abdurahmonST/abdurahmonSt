@@ -1,0 +1,11 @@
+{
+  "github_user_name": "abdurahmonST",
+  "svg_out_path": "dist/github-contribution-grid-snake.svg",
+  "theme": {
+    "snake": "#00ffff",
+    "background": "#0d0d0d",
+    "grid": "#333333",            
+    "dot": "#ff00ff",
+    "color_type": "solid"         
+  }
+}
