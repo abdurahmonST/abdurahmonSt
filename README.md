@@ -1,26 +1,17 @@
-# Hi there, I'm Abdurahmon 👋
+<h1 align="center">Hi, I'm Abdurahmon 🦋</h1>
+<p align="center">
+  <i>16 y/o Fullstack Developer | Dreamer | Future CS student @Columbia or NYU 💭</i>
+</p>
 
-## 💻 I'm a Fullstack Developer
+---
 
-- 🧠 Learning: React, Redux, Tailwind CSS, Node.js, MongoDB
-- 🛠️ Building: Task Manager App, Portfolio Website
-- 🌍 Based in Uzbekistan
-- 🎓 Aspiring student @Columbia / NYU
-
-## ✨ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,mongodb,figma)
-
-## 🧩 Current Goals
-
-- 📚 SAT & TOEFL preparation
-- 🎥 Weekly YouTube videos on backend dev
-- 🧪 Deep dive into advanced JavaScript and system design
-
-## 🖼️ Aesthetic Vibe
+### 🌿 about me
 
 ```bash
-🧋 Coffee + Code
-📓 Notion vibes
-🌄 Nature + Tech
+📍 Uzbekistan based
+📚 I love learning — currently deep diving into:
+   • React & Redux Toolkit
+   • Node.js, Express & MongoDB
+   • TypeScript & Tailwind CSS
+🎯 Goal: Build real projects, master system design & get into an Ivy 🌱
 ```
