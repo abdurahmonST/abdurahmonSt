@@ -12,16 +12,15 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 I’m a 16-year-old Fullstack Developer from Uzbekistan
-- 📚 Currently mastering React, Redux, and MongoDB
-- ✨ Passionate about backend architecture and clean code
-- 🚀 Dreaming of Columbia & NYU 🗽
+- I’m a 16-year-old Fullstack Developer from Uzbekistan
+- Currently mastering React, Redux, and Next.js
+- Passionate about backend architecture and clean code
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,ts,js,html,css,git,github,vscode" />
@@ -29,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdurahmonST&show_icons=true&theme=tokyonight&hide=prs" />
@@ -38,17 +37,15 @@
 
 ---
 
-## 🐍 Snake Game Contribution
-
 <p align="center">
   <img src="https://github.com/abdurahmonST/abdurahmonST/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Let's connect!
+## Let's connect!
 
 <p align="center">
-  <a href="https://t.me/abdurahmonST"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/bekmirzayev_abdurahmon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:abdurahmonbekmirzayev3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
