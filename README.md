@@ -26,17 +26,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,ts,js,html,css,git,github,vscode" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurahmonST&show_icons=true&theme=tokyonight&hide=prs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahmonST&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <img src="https://github.com/abdurahmonST/abdurahmonST/blob/output/github-contribution-grid-snake.svg" />
 </p>
