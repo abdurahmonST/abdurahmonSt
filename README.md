@@ -14,9 +14,8 @@
 
 ## About Me
 
-- I’m a 17-year-old Fullstack Developer from Uzbekistan
-- Working with React, Node.js, and Next.js
-- Passionate about backend architecture and clean code
+I'm a 17-year-old Fullstack Developer from Uzbekistan, working with Node.js and React.js.
+I'm passionate about backend architecture, scalability, and writing clean, maintainable code.
 
 ---
 
